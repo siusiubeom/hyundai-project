@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary teal / secondary white. Shared by every screen. -->
+    <color name="coach_primary">#007F78</color>
+    <color name="coach_primary_dark">#005E59</color>
+    <color name="coach_secondary">#FFFFFF</color>
+    <color name="coach_bg">#F2F7F6</color>
+    <color name="coach_surface">#FFFFFF</color>
+    <color name="coach_line">#DCE8E5</color>
+    <color name="coach_text">#163C39</color>
+    <color name="coach_muted">#58736F</color>
+    <color name="coach_accent">@color/coach_primary</color>
+    <color name="coach_good">#007F78</color>
+    <color name="coach_warn">#C73545</color>
+    <color name="coach_rec">@color/coach_primary</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

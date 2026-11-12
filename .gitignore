@@ -1,0 +1,23 @@
+*.iml
+.gradle
+.kotlin
+local.properties
+.DS_Store
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+
+# IDE 설정
+/.idea
+
+# 작업용 산출물(디자인 캡처, 시연 영상 원본)
+/output
+
+# 서명 키
+*.jks
+*.keystore
+
+# 내부 기획 문서 (팀원 이름·내부 메모 포함)
+*.docx

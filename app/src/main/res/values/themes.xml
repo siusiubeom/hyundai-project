@@ -1,0 +1,17 @@
+<resources>
+    <style name="Theme.Hyundai" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/coach_primary</item>
+        <item name="colorPrimaryVariant">@color/coach_primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/coach_secondary</item>
+        <item name="colorOnSecondary">@color/coach_primary</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:windowBackground">@color/coach_bg</item>
+        <item name="android:statusBarColor">@color/coach_bg</item>
+        <item name="android:navigationBarColor">@color/coach_bg</item>
+        <item name="android:textColorPrimary">@color/coach_text</item>
+        <item name="android:textColorSecondary">@color/coach_muted</item>
+    </style>
+</resources>

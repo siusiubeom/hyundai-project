@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="screen_gutter">48dp</dimen>
+    <dimen name="screen_top">40dp</dimen>
+</resources>
