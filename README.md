@@ -6,6 +6,18 @@
 - 앱 이름: 옆자리 (패키지 `com.bulletin.hyundai`)
 - APK: [`apk/bulletin_옆자리_release.apk`](apk/)
 
+## 시연 영상
+
+[![시연 영상 보기](docs/demo-thumbnail.jpg)](docs/demo.mp4)
+
+▶ [시연 영상 보기 (docs/demo.mp4, 1분 29초)](docs/demo.mp4) — Pleos Connect 에뮬레이터 화면 녹화. 출발 전 화면 → 기어 D(기록 중) → 기어 P(도착 후 리포트) → 확인 질문 답하기 → 저장 순서입니다.
+
+| 출발 전 (P) | 주행 중 (D) |
+|---|---|
+| ![출발 전](docs/screenshots/01-before-drive.png) | ![기록 중](docs/screenshots/02-recording.png) |
+| **도착 후 리포트 (P)** | **지난번과 비교 · 확인 질문 · 기억할 것** |
+| ![리포트](docs/screenshots/03-report.png) | ![확인 질문](docs/screenshots/04-questions.png) |
+
 ## 주요 기능
 
 | 시점 | 기어 | 앱이 하는 일 |
